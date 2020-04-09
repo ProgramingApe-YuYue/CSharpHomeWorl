@@ -1,0 +1,10 @@
+C:\Users\18470\source\repos\DrawTree\DrawTree\bin\Debug\DrawTree.exe.config
+C:\Users\18470\source\repos\DrawTree\DrawTree\bin\Debug\DrawTree.exe
+C:\Users\18470\source\repos\DrawTree\DrawTree\bin\Debug\DrawTree.pdb
+C:\Users\18470\source\repos\DrawTree\DrawTree\obj\Debug\DrawTree.csprojAssemblyReference.cache
+C:\Users\18470\source\repos\DrawTree\DrawTree\obj\Debug\DrawTree.Form1.resources
+C:\Users\18470\source\repos\DrawTree\DrawTree\obj\Debug\DrawTree.Properties.Resources.resources
+C:\Users\18470\source\repos\DrawTree\DrawTree\obj\Debug\DrawTree.csproj.GenerateResource.cache
+C:\Users\18470\source\repos\DrawTree\DrawTree\obj\Debug\DrawTree.csproj.CoreCompileInputs.cache
+C:\Users\18470\source\repos\DrawTree\DrawTree\obj\Debug\DrawTree.exe
+C:\Users\18470\source\repos\DrawTree\DrawTree\obj\Debug\DrawTree.pdb
