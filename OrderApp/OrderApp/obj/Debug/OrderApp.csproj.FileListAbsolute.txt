@@ -1,0 +1,16 @@
+C:\Users\18470\source\repos\OrderApp\OrderApp\bin\Debug\OrderApp.exe.config
+C:\Users\18470\source\repos\OrderApp\OrderApp\bin\Debug\OrderApp.exe
+C:\Users\18470\source\repos\OrderApp\OrderApp\bin\Debug\OrderApp.pdb
+C:\Users\18470\source\repos\OrderApp\OrderApp\obj\Debug\OrderApp.csprojAssemblyReference.cache
+C:\Users\18470\source\repos\OrderApp\OrderApp\obj\Debug\OrderApp.Properties.Resources.resources
+C:\Users\18470\source\repos\OrderApp\OrderApp\obj\Debug\OrderApp.csproj.GenerateResource.cache
+C:\Users\18470\source\repos\OrderApp\OrderApp\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\18470\source\repos\OrderApp\OrderApp\obj\Debug\OrderApp.exe
+C:\Users\18470\source\repos\OrderApp\OrderApp\obj\Debug\OrderApp.pdb
+C:\Users\18470\source\repos\OrderApp\OrderApp\obj\Debug\OrderApp.Form1.resources
+C:\Users\18470\source\repos\OrderApp\OrderApp\obj\Debug\OrderApp.Form2.resources
+C:\Users\18470\source\repos\OrderApp\OrderApp\bin\Debug\ConsoleApp1.exe
+C:\Users\18470\source\repos\OrderApp\OrderApp\bin\Debug\ConsoleApp1.pdb
+C:\Users\18470\source\repos\OrderApp\OrderApp\bin\Debug\ConsoleApp1.exe.config
+C:\Users\18470\source\repos\OrderApp\OrderApp\obj\Debug\OrderApp.csproj.CopyComplete
+C:\Users\18470\source\repos\OrderApp\OrderApp\obj\Debug\OrderApp.Form3.resources
