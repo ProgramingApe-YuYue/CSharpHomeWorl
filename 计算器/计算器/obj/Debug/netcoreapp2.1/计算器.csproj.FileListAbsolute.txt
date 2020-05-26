@@ -1,0 +1,11 @@
+C:\Users\18470\source\repos\计算器\计算器\bin\Debug\netcoreapp2.1\计算器.deps.json
+C:\Users\18470\source\repos\计算器\计算器\bin\Debug\netcoreapp2.1\计算器.runtimeconfig.json
+C:\Users\18470\source\repos\计算器\计算器\bin\Debug\netcoreapp2.1\计算器.runtimeconfig.dev.json
+C:\Users\18470\source\repos\计算器\计算器\bin\Debug\netcoreapp2.1\计算器.dll
+C:\Users\18470\source\repos\计算器\计算器\bin\Debug\netcoreapp2.1\计算器.pdb
+C:\Users\18470\source\repos\计算器\计算器\obj\Debug\netcoreapp2.1\计算器.csprojAssemblyReference.cache
+C:\Users\18470\source\repos\计算器\计算器\obj\Debug\netcoreapp2.1\计算器.csproj.CoreCompileInputs.cache
+C:\Users\18470\source\repos\计算器\计算器\obj\Debug\netcoreapp2.1\计算器.AssemblyInfoInputs.cache
+C:\Users\18470\source\repos\计算器\计算器\obj\Debug\netcoreapp2.1\计算器.AssemblyInfo.cs
+C:\Users\18470\source\repos\计算器\计算器\obj\Debug\netcoreapp2.1\计算器.dll
+C:\Users\18470\source\repos\计算器\计算器\obj\Debug\netcoreapp2.1\计算器.pdb
